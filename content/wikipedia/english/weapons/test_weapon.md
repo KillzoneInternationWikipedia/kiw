@@ -1,0 +1,5 @@
+# Test Weapon
+
+Yes!
+
+END
